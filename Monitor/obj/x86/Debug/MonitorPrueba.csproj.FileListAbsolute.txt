@@ -1,0 +1,6 @@
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Ejemplos\Monitor\Monitor\bin\Debug\Monitor.exe
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Ejemplos\Monitor\Monitor\bin\Debug\Monitor.pdb
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Ejemplos\Monitor\Monitor\obj\x86\Debug\MonitorPrueba.csprojAssemblyReference.cache
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Ejemplos\Monitor\Monitor\obj\x86\Debug\MonitorPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Ejemplos\Monitor\Monitor\obj\x86\Debug\Monitor.exe
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Ejemplos\Monitor\Monitor\obj\x86\Debug\Monitor.pdb

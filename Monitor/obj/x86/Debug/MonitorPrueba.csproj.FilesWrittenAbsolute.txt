@@ -1,0 +1,5 @@
+/home/jeff/Documents/CSharp/Monitor/Monitor/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jeff/Documents/CSharp/Monitor/Monitor/bin/Debug/Monitor.exe.mdb
+/home/jeff/Documents/CSharp/Monitor/Monitor/bin/Debug/Monitor.exe
+/home/jeff/Documents/CSharp/Monitor/Monitor/obj/x86/Debug/Monitor.exe
+/home/jeff/Documents/CSharp/Monitor/Monitor/obj/x86/Debug/Monitor.exe.mdb
